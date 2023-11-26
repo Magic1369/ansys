@@ -1,0 +1,9 @@
+Question
+Perform the buckling analysis for a model of rear axle. Find out required output as mentioned in the problem statement.
+
+description-
+The Rear Drive Axle is bearing the majority vehicle weight as well as houses the entire transmission components.
+ It is also called as a dead axle. The axles maintain the position of the wheels relative to each other and to the vehicle body.
+ Dead axle does not transmit power like the front axle in a rear wheel drives are dead axles. 
+On the dead axle suspension system is mounted, so it's also called suspension axle.
+ The service life of the Axle depends on the successful performance of its Housing, Shafts, Drive heads and other major and minor components.
